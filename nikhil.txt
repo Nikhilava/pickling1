@@ -1,0 +1,14 @@
+ import pickle
+# n=int(input("enter the studrnt no"))
+# with open("student11.dat",mode="wb") as f:
+#     for i in range(n):
+#         name=input("enter the student name")
+#         address=input("enter the adddress")
+#         roll=input("enter the roll no")
+#         str=(name,address,roll)
+#         pickle.dump(str,f)
+#         print('pikling done')
+# with open("student11.dat",mode='rb') as f:
+#     str1=(name,address,roll)
+#     obj=pickle.load(f)
+#     print(str1)
